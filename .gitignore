@@ -1,0 +1,21 @@
+# MacOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local tools (DO NOT push them)
+test.py
+github.py
+
+# IDE stuff
+.idea/
+.vscode/
+
+# Virtual env
+venv/
+.env/
+
+# Logs
+*.log
