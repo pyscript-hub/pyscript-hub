@@ -1,4 +1,7 @@
 {
-  "version": "1.0",
-  "description": "Say hello."
+    "name": "hello",
+    "version": "1.0",
+    "description": "Print a Hello message with optional name argument.",
+    "type": "standard",
+    "category": "base"
 }
