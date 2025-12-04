@@ -1,0 +1,17 @@
+{
+    "name": "cpu",
+    "version": "1.0",
+    "description": "Show CPU usage, updating every N seconds (or 1 if not specified).",
+    "type": "standard",
+    "category": "system status",
+    "dependencies": [
+        [
+            "psutil",
+            ""
+        ],
+        [
+            "rich",
+            ""
+        ]
+    ]
+}

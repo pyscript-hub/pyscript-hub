@@ -1,0 +1,17 @@
+{
+    "name": "netinfo",
+    "version": "1.0",
+    "description": "Show network interface information, updating every N seconds.",
+    "type": "standard",
+    "category": "system status",
+    "dependencies": [
+        [
+            "psutil",
+            ""
+        ],
+        [
+            "rich",
+            ""
+        ]
+    ]
+}

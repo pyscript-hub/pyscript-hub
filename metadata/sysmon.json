@@ -1,0 +1,17 @@
+{
+    "name": "sysmon",
+    "version": "1.0",
+    "description": "Show a real time dashboard with CPU, RAM, disk usage, network and uptime information, updating every N seconds.",
+    "type": "standard",
+    "category": "system status",
+    "dependencies": [
+        [
+            "psutil",
+            ""
+        ],
+        [
+            "rich",
+            ""
+        ]
+    ]
+}

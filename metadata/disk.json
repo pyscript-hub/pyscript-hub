@@ -1,0 +1,17 @@
+{
+    "name": "disk",
+    "version": "1.0",
+    "description": "Show disk usage for all partitions, refreshing every N seconds.",
+    "type": "standard",
+    "category": "system status",
+    "dependencies": [
+        [
+            "psutil",
+            ""
+        ],
+        [
+            "rich",
+            ""
+        ]
+    ]
+}

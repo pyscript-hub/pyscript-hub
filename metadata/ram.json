@@ -1,0 +1,17 @@
+{
+    "name": "ram",
+    "version": "1.0",
+    "description": "Show RAM usage, updating every N seconds if specified.",
+    "type": "standard",
+    "category": "system status",
+    "dependencies": [
+        [
+            "psutil",
+            ""
+        ],
+        [
+            "rich",
+            ""
+        ]
+    ]
+}
