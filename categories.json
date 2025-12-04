@@ -1,6 +1,12 @@
 {
   "base": [
-    "hello",
-    "system status"
+    "hello"
+  ],
+  "system status": [
+    "cpu",
+    "ram",
+    "disk",
+    "sysmon",
+    "netinfo"
   ]
 }
