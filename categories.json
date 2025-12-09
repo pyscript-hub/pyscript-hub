@@ -8,5 +8,10 @@
     "disk",
     "sysmon",
     "netinfo"
+  ],
+  "time": [
+    "clock",
+    "stopwatch",
+    "timer"
   ]
 }

@@ -1,0 +1,13 @@
+{
+    "name": "timer",
+    "version": "1.0",
+    "description": "Run a countdown timer of N seconds, updating every M seconds (default 0.01), optionally showing an end message.",
+    "type": "standard",
+    "category": "time",
+    "dependencies": [
+        [
+            "rich",
+            ""
+        ]
+    ]
+}

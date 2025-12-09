@@ -1,0 +1,13 @@
+{
+    "name": "stopwatch",
+    "version": "1.0",
+    "description": "Run a stopwatch, updating every N milliseconds (0.01 if not specified) and displaying in a specific format.",
+    "type": "standard",
+    "category": "time",
+    "dependencies": [
+        [
+            "rich",
+            ""
+        ]
+    ]
+}

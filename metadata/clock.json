@@ -1,0 +1,13 @@
+{
+    "name": "clock",
+    "version": "1.0",
+    "description": "Show the clock.",
+    "type": "standard",
+    "category": "time",
+    "dependencies": [
+        [
+            "rich",
+            ""
+        ]
+    ]
+}
